@@ -1,0 +1,7 @@
+{
+  "name": "MockMate - AI Interviewer",
+  "description": "A real-time voice conversational interview platform powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
